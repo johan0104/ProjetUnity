@@ -1,0 +1,7 @@
+# Forcing text files to use LF (Linux) line endings
+*.cs text eol=lf
+*.sh text eol=lf
+
+# Treat these files as binary
+*.png binary
+*.fbx binary
